@@ -1,6 +1,7 @@
-# shops
-website
+# Shops website
 # Django-Ecommerce
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/khushabu28s/shop.svg?style=flat-square)](https://github.com/khushabu28s/shop/commit/master) ![Supported platforms](https://img.shields.io/badge/platform-Windows-informational.svg?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/khushabu28s/shop) 
 
 Ecommerce website built with Django 2.2.3, Python 3.7.3, and AWS
 
